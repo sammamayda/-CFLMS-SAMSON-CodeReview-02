@@ -1,0 +1,146 @@
+body {
+    padding: 50px;
+    margin: 0;
+    font: 100% Helvetica, sans-serif;
+    color: rgb(230, 53, 22);
+}
+
+header {
+    background-color: rgb(155, 65, 65);
+    color: white;
+}
+
+.website-header {
+    padding: 30px;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header-logo {
+    width: 50px;
+    height: 25px;
+    float: left;
+    margin: 2px;
+    padding: 10%;
+}
+
+.banner1 {
+    margin-right: 1px;
+}
+
+nav {
+    background-color: black;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav-item {
+    display: inline-block;
+}
+
+section {
+    background-color: white;
+    color: black;
+}
+
+.date {
+    text-align: right;
+    color: black;
+}
+
+.top {
+    background-color: rgb(193, 175, 209);
+    padding: 15px;
+    color: #333;
+    margin: 1px;
+}
+
+h {
+    text-align: center;
+    color: white;
+    background-color: black;
+    display: inline-block;
+    padding: 4px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+container2 {
+    position: absolute;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 33.3%;
+    padding: 5px;
+}
+
+.pupular {
+    background-color: rgb(193, 175, 209);
+    padding: 1;
+    color: #333;
+    margin: 5px;
+}
+
+.row2 {
+    display: flex;
+}
+
+.column {
+    flex: 33.3%;
+    padding: 5px;
+}
+
+.img-banner4 {
+    background-color: white;
+    padding: 1;
+    margin: 20px;
+}
+
+.row3 {
+    display: flex;
+}
+
+.column {
+    flex: 33.3%;
+    padding: 5px;
+}
+
+.img-banner4 {
+    background-color: white;
+    padding: 1;
+    margin: 20px;
+}
+
+footer {
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 5px;
+    margin: 0;
+}
+
+.footer-logo {
+    float: right;
+}
+
+
+/*# sourceMappingURL=styles.css.map */
